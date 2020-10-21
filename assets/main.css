@@ -1,0 +1,53 @@
+@font-face{
+  font-family: 'Venus Rising';
+  src: local('Venus Rising'), url('../assets/2274.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'Capture It';
+  src: local('Capture It'), url('../assets/capture-it_[allfont.ru].ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'Candara';
+  src: local('Candara'), url('../assets/Candara.ttf') format('truetype');
+}
+
+@font-face{
+  font-family: 'Bahnschrift';
+  src: local('Bahnschrift'), url('../assets/Bahnschrift.ttf') format('truetype');
+}
+
+.page-enter-active {
+  transition: all .5s;
+}
+
+.page-leave-active {
+  transition: all .5s;
+}
+.page-enter {
+  transform: translateX(-550px);
+  opacity: 0;
+}
+.page-leave-to {
+  transform: translateX(550px);
+  opacity: 0;
+}
+
+@media (max-width: 768px) {
+  .page-enter-active {
+    transition: none;
+  }
+
+  .page-leave-active {
+    transition: none;
+  }
+  .page-enter {
+    transform: none;
+    opacity: 1;
+  }
+  .page-leave-to {
+    transform: none;
+    opacity: 1;
+  }
+}

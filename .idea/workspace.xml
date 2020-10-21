@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68391272-191e-4a2b-a60a-01b368b2e20e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1SPNWczqvIzZp5IbBcU9fYskjBO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\ayarvimem\Desktop\Arctic Sonic Wave - site\ArcticSonicWave\Arctic-Sonic-Wave\node_modules\prettier" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68391272-191e-4a2b-a60a-01b368b2e20e" name="Default Changelist" comment="" />
+      <created>1561545858336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561545858336</updated>
+      <workItem from="1561545859696" duration="11538000" />
+      <workItem from="1561617323997" duration="21000" />
+      <workItem from="1561633274193" duration="9139000" />
+      <workItem from="1561708696832" duration="19850000" />
+      <workItem from="1561787051531" duration="8586000" />
+      <workItem from="1561800163047" duration="339000" />
+      <workItem from="1561804673030" duration="12271000" />
+      <workItem from="1561985052106" duration="6798000" />
+      <workItem from="1565156032388" duration="2033000" />
+      <workItem from="1565262069787" duration="2193000" />
+      <workItem from="1565332780936" duration="14529000" />
+      <workItem from="1565424964173" duration="24825000" />
+      <workItem from="1565715508770" duration="773000" />
+      <workItem from="1565776818387" duration="3131000" />
+      <workItem from="1565856318089" duration="477000" />
+      <workItem from="1565877313207" duration="6850000" />
+      <workItem from="1565937548573" duration="18908000" />
+      <workItem from="1571461304986" duration="29491000" />
+      <workItem from="1571661181016" duration="3687000" />
+      <workItem from="1571999870719" duration="13273000" />
+      <workItem from="1572427483672" duration="6593000" />
+      <workItem from="1572449144742" duration="1610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
